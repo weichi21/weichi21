@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weichi21
-- 👀 I’m interested in Data Analytics and Machine Learning!
+- 👀 I’m interested in **Data Analytics** and **Machine Learning**!
 - 🌱 I’m currently learning Image Processing and PyTorch.
-- I have experience in predictive modeling, process optimization and industrial engineering.
+- I have experience in **predictive modeling**, **process optimization** and **industrial engineering**.
 - 💞️ I’m looking to collaborate on Data Analytics or Predictive Modeling projects!
 
 
